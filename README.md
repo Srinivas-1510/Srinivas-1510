@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Srinivas Katti</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif">
+<img align="right" alt="coding" width="400" src="http://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinivas-1510&label=Profile%20views&color=0e75b6&style=flat" alt="srinivas-1510" /> </p>
 
