@@ -1,3 +1,4 @@
+![logo](https://github.com/Srinivas-1510/Srinivas-1510/blob/main/Github%20Banner.png.png)
 <h1 align="center">Hi 👋, I'm Srinivas Katti</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
