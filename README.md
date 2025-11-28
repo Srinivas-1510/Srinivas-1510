@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinivas-1510&label=Profile%20views&color=0e75b6&style=flat" alt="srinivas-1510" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning & Deep Learning**
 
 - 💬 Ask me about **Python and C**
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/1510-srinivas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srinivas-katti" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/srinivas-v-a08032379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srinivas-katti" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
